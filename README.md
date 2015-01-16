@@ -26,4 +26,5 @@ Relations in the program as assertions.
 **Bi-directional relationship are listed twice**
 
 joan-cindy
+
 cindy-joan
