@@ -23,6 +23,6 @@ Relations in the program as assertions.
   + jennifer-jim
   + joan-gary
 
-###Bi-directional relationship are listed twice
+**Bi-directional relationship are listed twice**
 joan-cindy
 cindy-joan
