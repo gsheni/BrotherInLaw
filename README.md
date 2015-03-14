@@ -1,4 +1,4 @@
-# PrologPrograms
+# BrotherInLaw
 Prolog program which defines a brother_in_law predicate.
 There are two ways to define brother_in_law – the husband of a person’s sister, or the brother of a person’s spouse.  
 
